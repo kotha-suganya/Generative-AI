@@ -15,3 +15,10 @@ Key Features: Dictionary-based response mapping and a continuous while loop for 
 4. AI Story Generator
 Generates a short narrative based on a single prompt or theme provided by the user.
 Key Features: Random selection from pre-defined story templates.
+5. Simple Text Summarizer
+A basic NLP utility that takes long paragraphs and extracts the first two sentences to create a concise summary.
+Key Features: String splitting and joining methods.
+6. Creative Username Generator
+Generates unique online handles by combining a prefix, a name, a suffix, and a random number.
+Example Output: presugasuf12
+Key Features: User input concatenation and the random module.
